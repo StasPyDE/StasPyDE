@@ -1,4 +1,4 @@
-# Hello World! I'm Stas, a Russian Data Engineering Enthusiast 👋🏼:
+# Hello World! I'm Stas, a Data Engineering Enthusiast 👋🏼:
 🔭 I’m currently studying at Kuban State University at the Faculty of Computer Technology and Applied Mathematics<br>🌱 I'm trying to explore the world of Data Engineering
 
 
